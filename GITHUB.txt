@@ -1,0 +1,39 @@
+                                              GITHUB
+
+git config --global user.name ""
+
+git config --global user.email ""
+
+git clone
+
+git add <filename> ==> add the  given untracked files to the staging area
+
+git add . ==> (add or modifying or deleting) the all the untracked files to the staging area
+
+git commit -m "message" ==> give the commit messages to all the file
+
+git commit -m "message" <filename> ==> give the commit messages to all the file
+
+git push origin <branchname> ==> transfer local file to the remote(it will add all the files to remote , we cannot push single file if all 				  the files are commited)
+
+git pull ==> what are the changes happened in GitHub that will reflect to the local
+
+git branch ==> shows the list of branches in the repository
+
+git branch -M "new name" ==> changing the branch name
+
+
+git add remote <URL> ==> connection between local and remote
+
+
+
+
+
+
+
+
+
+
+doubt
+
+1.what is origin in github
